@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Sales Agent & Data Analyst
+        - title: Sales Agent and Data Analyst
           company: TVPaint Developpement
           company_url: ''
           company_logo: org-gc
@@ -72,9 +72,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Data Analysis
+              * Marketing
+              * Pricing
+              * Sales
         - title: Business Analyst
           company: XPO Logistics
           company_url: ''
@@ -82,7 +83,7 @@ sections:
           location: Luxembourg
           date_start: '2018-03-01'
           date_end: '2019-09-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Use of SAP and QlikView.
     design:
       columns: '2'
   - block: accomplishments
