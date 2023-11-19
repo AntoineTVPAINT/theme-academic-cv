@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Sales Agent & Data Analyst
-          company: TVPaint Développement
+          company: TVPaint Developpement
           company_url: ''
           company_logo: org-gc
           location: France
