@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sales Agent & Data Analyst
+title: Antoine Bluntz
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Sales Agent & Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,12 +35,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Data Analytics
   - Business Intelligence
-  - Statistics and Marketing
+  - Statistics
+  - Marketing
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Statistics and Business Intelligence
+    - course: BSc in Statistics and Data Science
       institution: University of Lorraine
       year: 2022
     - course: MS in Aerospace Management
@@ -55,11 +56,21 @@ education:
 skills:
   - name: Technical
     items:
+      - name: Excel
+        description: ''
+        percent: 80
+        icon: table
+        icon_pack: fas
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
+      - name: R
+        description: ''
+        percent: 100
+        icon: registered
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
@@ -84,20 +95,30 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
-      - name: Sailplane
+      - name: Gliding
         description: ''
         percent: 80
         icon: plane
+        icon_pack: fas
+      - name: Motorcycling
+        description: ''
+        percent: 80
+        icon: motorcycle
+        icon_pack: fas
+      - name: Diving
+        description: ''
+        percent: 80
+        icon: water
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
