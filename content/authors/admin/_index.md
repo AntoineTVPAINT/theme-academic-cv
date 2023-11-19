@@ -29,7 +29,7 @@ organizations:
     url: https://www.univ-lorraine.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My field of expertise includes satistics, business intelligence and data vizualization.
 
 # Interests to show in About widget
 interests:
@@ -153,7 +153,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: linkedin.com/in/antoine-bluntz-2a777332
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
