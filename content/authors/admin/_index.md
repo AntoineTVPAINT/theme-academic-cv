@@ -153,7 +153,7 @@ social:
     link: https://github.com/AntoineBLUNTZ
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/antoine-bluntz-2a777332
+    link: https://www.linkedin.com/in/antoine-bluntz-2a777332/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
