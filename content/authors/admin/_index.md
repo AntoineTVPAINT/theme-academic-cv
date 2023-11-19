@@ -86,6 +86,11 @@ skills:
         percent: 40
         icon: magnifying-glass-chart
         icon_pack: fas
+      - name: Languages
+        description: ''
+        percent: 40
+        icon: language
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -119,6 +124,11 @@ skills:
         description: ''
         percent: 80
         icon: book
+        icon_pack: fas
+      - name: Camping
+        description: ''
+        percent: 80
+        icon: campground
         icon_pack: fas
 
 # Social/Academic Networking
