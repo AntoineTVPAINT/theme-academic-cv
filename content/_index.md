@@ -263,24 +263,24 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: antoine.bluntz@gmail.com
+      phone: +33 6 9529 1592
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 83 rue Saint Ladre
+        city: Montigny-lès-Metz
+        region: Moselle
+        postcode: '57050'
+        country: France
+        country_code: FR
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '49.0928'
+        longitude: '6.15106'  
       contact_links:
         - icon: twitter
           icon_pack: fab
