@@ -103,7 +103,7 @@ sections:
           location: Paris
           date_start: '2013-10-01'
           date_end: '2014-05-01'
-          description: Pricing for tenders (FH support), Poisson distribition, stock sizing based on components' MTBUR.
+          description: Pricing for tenders (FH support), Poisson distribution, stock sizing based on components' MTBUR.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
