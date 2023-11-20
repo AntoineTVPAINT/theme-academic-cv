@@ -88,6 +88,22 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        - title: Key Account Manager
+          company: OEMServices
+          company_url: https://oemservices.com/
+          company_logo: OEMServices
+          location: Singapore
+          date_start: '2014-05-01'
+          date_end: '2016-05-01'
+          description: PBH contract for Singapore Airlines and Airbus FHS.
+        - title: Bid Manager
+          company: OEMServices
+          company_url: https://oemservices.com/
+          company_logo: OEMServices
+          location: Paris
+          date_start: '2013-10-01'
+          date_end: '2014-05-01'
+          description: Pricing for tenders (FH support), Poisson distribition, stock sizing based on components' MTBUR.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
