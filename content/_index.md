@@ -63,12 +63,25 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Sales Agent & Data Analyst
-          company: TVPaint
+          company: TVPaint Développement
           company_url: https://www.tvpaint.com/
           company_logo: TVPaint-logo-butterfly
           location: France
           date_start: '2020-02-01'
           date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Business Analyst
+          company: XPO Logistics
+          company_url: https://europe.xpo.com/
+          company_logo: XPO-Logistics
+          location: Luxembourg
+          date_start: '2018-03-01'
+          date_end: '2019-09-01'
           description: |2-
               Responsibilities include:
 
