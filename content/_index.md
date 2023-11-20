@@ -65,7 +65,7 @@ sections:
         - title: Sales Agent & Data Analyst
           company: TVPaint
           company_url: https://www.tvpaint.com/
-          company_logo: org-gc
+          company_logo: TVPaint-logo-butterfly
           location: France
           date_start: '2020-02-01'
           date_end: ''
